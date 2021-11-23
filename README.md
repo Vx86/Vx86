@@ -1,7 +1,7 @@
 # About me
 👋 Hi, I’m @Vx86\
 👀 I’m interested in Pentesting and CTF\
-🌱 I’m currently learning pentesting on TryHackMe and HackTheBox\
+🌱 I’m currently learning pentest on TryHackMe and HackTheBox\
 💻 Working @Atos-Digital.Security
 
 # Profiles
